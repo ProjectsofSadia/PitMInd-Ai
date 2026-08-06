@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+httpx
+pytest
+# anthropic  # optional: LLM narration (app/llm.py)
+# openai     # optional: alternative LLM
